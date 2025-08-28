@@ -1,6 +1,6 @@
 # Hi, I'm Prabhu 👋
 
-![AI Engineer]([https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=600&q=8](https://alltogether.swe.org/wp-content/uploads/2023/06/Generative-AI-cover-photo-society-of-women-engineers.png)0)
+![AI Engineer]([[https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=600&q=8](https://alltogether.swe.org/wp-content/uploads/2023/06/Generative-AI-cover-photo-society-of-women-engineers.png)0](https://www.wsp.com/-/media/insights/us/artificial-intelligence-and-building-design/bnr-gen-ai-building-design-banner.jpg?h=703&w=1920&hash=CEE1AD6256895C8D80FB98E99B9DF637))
 
 I am an AI Engineer currently working on a Retrieval-Augmented Generation (RAG) project. I have a strong passion for artificial intelligence, machine learning, and deep learning, and enjoy building intelligent systems that can solve real-world problems.
 
