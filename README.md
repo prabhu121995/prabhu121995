@@ -284,7 +284,7 @@ I can work with business applications involving:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dotnet,cs,flask,react,angular,html,css,js,jquery,sql,mysql,postgres,mongodb,pandas,powerbi,aws,git,kubernetes,docker,opencv,postman&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,dotnet,cs,flask,react,angular,html,css,js,jquery,sqlite,sql,mysql,postgres,mongodb,pandas,powerbi,aws,git,kubernetes,docker,opencv,postman&perline=8" />
 
 </p>
 
