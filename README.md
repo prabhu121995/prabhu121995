@@ -102,10 +102,10 @@ Vector / database technologies:
 I can work with architectures where multiple AI agents collaborate to solve a business task.
 
 ```text
-User
-  ↓
-Orchestrator
-  ↓
+            User
+              ↓
+            Orchestrator
+              ↓
 ┌──────────────┬──────────────┬──────────────┐
 │   Agent 1    │   Agent 2    │   Agent 3    │
 │   Research   │   Analysis   │    Action    │
